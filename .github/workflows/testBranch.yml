@@ -5,9 +5,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ test ]
+    branches: [ geka001-patch-1 ]
   pull_request:
-    branches: [ test ]
+    branches: [ geka001-patch-1 ]
 
 jobs:
   build:
